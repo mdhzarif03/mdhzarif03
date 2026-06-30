@@ -176,31 +176,6 @@ Promoting technology education and encouraging student participation in national
 
 ---
 
-# GitHub Highlights
-
-* 18+ repositories
-* Open Source Projects
-* Desktop Applications
-* Web Applications
-* Developer Utilities
-* Course Projects
-* Learning in Public
-
----
-
-# Currently Learning
-
-* Advanced Python
-* Modern JavaScript & TypeScript
-* React Ecosystem
-* Backend Architecture
-* APIs
-* Databases
-* AI & Machine Learning
-* Software Engineering Best Practices
-
----
-
 # Connect With Me
 
 <p>
