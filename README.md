@@ -169,7 +169,7 @@ Promoting technology education and encouraging student participation in national
 
 # Certifications
 
-* Harvard CS50x — Introduction to Computer Science
+* Harvard CS50x - Introduction to Computer Science
 * JPMorgan Chase Software Engineering Job Simulation
 * AI for Beginners
 * Effective Leadership
