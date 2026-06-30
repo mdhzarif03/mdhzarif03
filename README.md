@@ -188,14 +188,6 @@ Promoting technology education and encouraging student participation in national
 
 ---
 
-# Philosophy
-
-I enjoy understanding **why** systems work before learning **how** to use them.
-
-Rather than chasing trends, I prefer strengthening fundamentals, building practical software, and continuously improving through real-world projects.
-
----
-
 # Currently Learning
 
 * Advanced Python
