@@ -21,7 +21,7 @@
 
 ---
 
-> **"I don't just enjoy writing software—I enjoy understanding the systems that make software possible."**
+> **"I don't just enjoy writing software, I enjoy understanding the systems that make software possible."**
 
 </div>
 
