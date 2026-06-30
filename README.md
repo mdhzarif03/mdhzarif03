@@ -2,7 +2,7 @@
 
 # Muhammad Hasan Zarif
 
-### *Student Founder • Software Engineering Enthusiast • AI Explorer • Open-Source Builder*
+### *Student Founder • Open-Source Builder*
 
 <p>
   <a href="https://www.linkedin.com/in/mdhzarif">
