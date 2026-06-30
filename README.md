@@ -86,7 +86,7 @@ Today I'm focused on becoming a software engineer capable of building products t
 
 ---
 
-# Featured Projects
+# Things I've Built
 
 ## IconForge
 
