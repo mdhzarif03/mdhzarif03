@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Muhammad Hasan Zarif 👋
 
-<!--
-**mdhzarif03/mdhzarif03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student
 
-Here are some ideas to get you started:
+🚀 Currently Learning
+- HTML
+- CSS
+- JavaScript
+- Python
+- AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Projects
+- F.I.L.E. (Downloads Organizer)
+- V.E.L.A (AI Assistant)
+- Web Development Practice
+
+📫 Reach me
+- Email: your@email.com
